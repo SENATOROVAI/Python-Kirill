@@ -5,7 +5,7 @@
 3)https://leetcode.com/problems/palindrome-number/
 
 python (получить сертификат)
-1) https://www.kaggle.com/learn/intro-to-programming
+1) https://www.kaggle.com/learn/python
 
 git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
