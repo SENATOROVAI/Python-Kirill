@@ -1,8 +1,8 @@
 ﻿Алгоритмы (выполнить)
 
-1)https://codeforces.com/problemset/problem/4/A
-2)https://projecteuler.net/problem=1
-3)https://leetcode.com/problems/palindrome-number/
+1)https://codeforces.com/problemset/problem/4/A done
+2)https://projecteuler.net/problem=1  done?
+3)https://leetcode.com/problems/palindrome-number/ 
 
 python (получить сертификат)
 1) https://www.kaggle.com/learn/python
@@ -18,8 +18,7 @@ git:
 https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63 (учебник на rus/eng)
 2) codeforces.com/problemset?order=BY_RATING_ASC&tags=math 1 задача в день
 
-Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+1/1/24
+1) выполнить \Python\hw\python_test1.ipynb
 
-
-
-
+пиши "done" рядом с выполненными заданиями
