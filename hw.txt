@@ -1,8 +1,8 @@
 ﻿Алгоритмы (выполнить)
 
 1)https://codeforces.com/problemset/problem/4/A done
-2)https://projecteuler.net/problem=1  done?
-3)https://leetcode.com/problems/palindrome-number/ 
+2)https://projecteuler.net/problem=1  done 
+3)https://leetcode.com/problems/palindrome-number/ done
 
 python (получить сертификат)
 1) https://www.kaggle.com/learn/python
@@ -11,7 +11,7 @@ git:
 1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
 3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
-4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
+4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать) In-process
 
 Алгоритмы:
 1)скачать
@@ -19,6 +19,6 @@ https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63 (уч�
 2) codeforces.com/problemset?order=BY_RATING_ASC&tags=math 1 задача в день
 
 1/1/24
-1) выполнить \Python\hw\python_test1.ipynb
+1) выполнить \Python\hw\python_test1.ipynb 
 
 пиши "done" рядом с выполненными заданиями
